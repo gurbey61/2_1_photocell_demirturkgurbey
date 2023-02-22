@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="K2*t0W0,Sy5Z1wLwNRQZ">value</variable></variables><block type="device_forever" id="$4sU`5LBK#679.%(knVK" x="0" y="0"></block><block type="device_get_analog_pin" id="gge)Lh;sl_U;.}3VrUy?" disabled="true" x="426" y="113"><field name="name">AnalogPin.P0</field></block></xml>
